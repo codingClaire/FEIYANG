@@ -1,0 +1,18 @@
+Request URL: https://mp.weixin.qq.com/cgi-bin/searchbiz?action=search_biz&token=1170959408&lang=zh_CN&f=json&ajax=1&random=0.21930652364454506&query=%E9%A3%9E%E6%89%AC%E4%BF%B1%E4%B9%90%E9%83%A8&begin=0&count=5
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 120.204.16.168:443
+Referrer Policy: no-referrer-when-downgrade
+
+action: search_biz
+token: 1170959408
+lang: zh_CN
+f: json
+ajax: 1
+random: 0.21930652364454506
+query: 飞扬俱乐部
+begin: 0
+count: 5
+
+{fakeid: "MjM5NTA4Mjc4MA==", nickname: "四川大学飞扬俱乐部", alias: "scuFeiYang",…}
+
